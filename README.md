@@ -59,6 +59,3 @@ Mini_Parking/
 5. Nạp code vào board
 
 ---
-
-## Tác giả
-Dự án học tập – Đồ án 1
