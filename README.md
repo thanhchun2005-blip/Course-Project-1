@@ -24,8 +24,6 @@ Mini_Parking/
 │   ├── Gates.h                   # Điều khiển barrier/servo
 │   ├── Keypad_Input.h            # Đọc bàn phím số
 │   └── Sensors.h                 # Đọc cảm biến siêu âm
-├── flowchart_yeu_cau_he_thong.drawio  # Sơ đồ luồng hệ thống
-├── PowerPoint_SmartParking.md         # Tài liệu thuyết trình
 └── .gitignore
 ```
 
@@ -39,9 +37,8 @@ Mini_Parking/
 | Thẻ RFID / Key fob | Tùy ý |
 | LCD 16x2 I2C | 1 |
 | Keypad 4x4 | 1 |
-| Cảm biến siêu âm HC-SR04 | 2+ |
+| Cảm biến hồng ngoại | 5 |
 | Servo SG90 | 2 |
-| LED chỉ thị | Tùy ý |
 
 ---
 
