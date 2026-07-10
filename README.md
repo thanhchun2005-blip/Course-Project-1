@@ -59,3 +59,6 @@ Mini_Parking/
 5. Nạp code vào board
 
 ---
+
+## Link Video mô phỏng:
+https://youtu.be/V-6kziB74rg?si=5D4bB6iSLU18qlDV
